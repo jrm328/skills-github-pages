@@ -1,5 +1,5 @@
 ---
-title: "My-Game-Dev-Journey"
+title: "My Game Dev Journey"
 date: 2025-01-04
 ---
 
