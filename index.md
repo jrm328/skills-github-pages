@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Its Just Joe Games
 ---
 
