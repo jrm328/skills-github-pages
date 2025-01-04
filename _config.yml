@@ -13,7 +13,7 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima
+remote_theme: jekyll/minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -37,12 +37,12 @@ show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-  - skin: classic
+  skin: dark
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  - date_format: "%b-%d-%Y"
+  date_format: "%b-%d-%Y"
 
   # Generate social links in footer.
   social_links:
