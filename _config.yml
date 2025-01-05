@@ -46,14 +46,15 @@ minima:
 
   # Generate social links in footer.
   social_links:
+    - { platform: youtube,        user_url: "https://www.youtube.com/@ItsJustJoeGames?=sub1" }
     - platform: steam  # same as SVG filename.
-        user_url: "https://www.deviantart.com/john.doe"  # URL of profile page.
-        title:  My games on steam  # Optional. Text displayed on hovering over link.
+      user_url: "https://store.steampowered.com/app/2233640/Bunker_Breakout/"  # URL of profile page.
+      title:  My games on steam  # Optional. Text displayed on hovering over link.
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-    - { platform: bluesky,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
+    - { platform: bluesky,         user_url: "https://bsky.app/profile/itsjustjoe.games" }
+  #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
@@ -64,5 +65,4 @@ minima:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: blusky,        user_url: "https://bsky.app/profile/itsjustjoe.games }
-    - { platform: x,              user_url: "https://x.com/jekyllrb" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+    - { platform: x,              user_url: "https://x.com/Its_Just_Joe_" }
