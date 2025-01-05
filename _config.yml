@@ -33,7 +33,7 @@ header_pages:
   - games.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: true
+show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -49,7 +49,7 @@ minima:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-  #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
+    - { platform: blusky,         user_url: "https://www.flickr.com/photos/jekyll" }
     - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
