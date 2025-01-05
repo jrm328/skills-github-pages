@@ -1,6 +1,19 @@
 ---
-title: "My Game Dev Journey"
+layout: post
+title: "My Game Dev Journey: From Dreamer to Developer"
 date: 2025-01-04
+author: "Joe"
+categories: 
+  - Game Development
+  - Indie Games
+tags: 
+  - Game Dev
+  - Indie Games
+  - Journey
+  - Bunker Breakout
+excerpt: "Discover how I turned my love for games into a passion for creating them, navigating the ups and downs of indie game development."
+permalink: /blog/my-game-dev-journey/
+image: /assets/images/game-dev-journey.jpg
 ---
 
 # My Game Dev Journey: From Dreamer to Developer
