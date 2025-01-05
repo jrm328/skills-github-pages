@@ -16,8 +16,6 @@ permalink: /blog/my-game-dev-journey/
 featured_image: game-dev-journey.jpg
 ---
 
-# My Game Dev Journey: From Dreamer to Developer
-
 For as long as I can remember, games have been a significant part of my life. They’ve inspired me, challenged me, and provided countless hours of joy. But behind all the epic battles, sprawling worlds, and unforgettable characters, there was always one burning question: **“What would it be like to create my own game?”**
 
 That question has driven me down a path of discovery, frustration, and triumph. Today, I want to share the story of how I’ve embraced game development—the ups, the downs, and everything in between.
