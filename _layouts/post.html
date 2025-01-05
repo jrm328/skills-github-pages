@@ -1,1 +1,5 @@
-this is a post
+{% if page.featured_image %}
+<div class="featured-image">
+  <img src="{{ '/assets/images' | append: page.featured_image | relative_url }}" />
+</div>
+{% endif %}
