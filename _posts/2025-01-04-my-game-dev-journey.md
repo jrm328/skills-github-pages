@@ -13,7 +13,7 @@ tags:
   - Bunker Breakout
 excerpt: "Discover how I turned my love for games into a passion for creating them, navigating the ups and downs of indie game development."
 permalink: /blog/my-game-dev-journey/
-image: /assets/images/game-dev-journey.jpg
+featured_image: game-dev-journey.jpg
 ---
 
 # My Game Dev Journey: From Dreamer to Developer
