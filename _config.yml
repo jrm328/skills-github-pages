@@ -1,12 +1,12 @@
-title: Its Just Joe Games | Indie Games. Epic Stories. One Devs Journey.
+title: Its Just Joe Games
 author:
-  name: Its Just Joe Games
+  name: Joe
   email: info@itsjustjoe.games
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Passionate about creating indie games and sharing my game development journey. 
+  Indie Games, epic stories, one Dev's journey creating indie games. 
   Here, you’ll find a blend of gaming and tech content as I dive into the challenges 
   and triumphs of bringing my game ideas to life.
   
@@ -23,6 +23,7 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Theme-specific settings
 
