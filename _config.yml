@@ -13,7 +13,7 @@ description: >
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima
+remote-theme: jekyll/minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -47,7 +47,7 @@ minima:
   # Generate social links in footer.
   social_links:
     - { platform: youtube,        user_url: "https://www.youtube.com/@ItsJustJoeGames?=sub1" }
-    - platform: steam  # same as SVG filename.
+    - platform: stream  # same as SVG filename.
       user_url: "https://store.steampowered.com/app/2233640/Bunker_Breakout/"  # URL of profile page.
       title:  My games on steam  # Optional. Text displayed on hovering over link.
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
