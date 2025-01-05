@@ -16,14 +16,15 @@
   .featured-image {
     flex: 1 0 200px;
     margin-bottom: 0;
+    border-radius: 30px;
   }
 }
 
 .featured-image {
   margin-bottom: 50px;
+  border-radius: 25px;
 
   img {
-    border-radius: 50px;
     width: 100%;
     max-height: 250px;
     object-fit: cover;
